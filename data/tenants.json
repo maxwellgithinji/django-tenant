@@ -1,0 +1,25 @@
+
+[
+    {
+        "schema_name": "public",
+        "name": "public",
+        "paid_until":"2016-12-05",
+        "on_trial": "False",
+        "domain": "localhost"
+
+    },
+    {
+        "schema_name": "mycarehub",
+        "name": "mycarehub",
+        "paid_until":"2016-12-05",
+        "on_trial": "False",
+        "domain": "mycarehub.domain"
+    },
+    {
+        "schema_name": "uon",
+        "name": "uon",
+        "paid_until":"2016-12-05",
+        "on_trial": "False",
+        "domain": "uon.domain"
+    }
+]
